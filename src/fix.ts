@@ -50,7 +50,7 @@ export const insertExplicitConcatOperator = (exp: string): string => {
 const peek = (stack: string[]): string =>
 	stack.length && stack[stack.length - 1]
 
-export const infixToPostfix = (exp: string): string => {
+export const toPostfix = (exp: string): string => {
 	let output = ''
 	const stack = []
 

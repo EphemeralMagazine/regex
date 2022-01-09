@@ -1,0 +1,9 @@
+# Theory
+
+## Finite Automata
+
+> Finite Automata(FA) is the simplest machine to recognize patterns. The finite automata or finite state machine is an abstract machine that has five elements or tuples. It has a set of states and rules for moving from one state to another but it depends upon the applied input symbol. Basically, it is an abstract model of a digital computer. The following figure shows some essential features of general automation.
+
+above is taken from [geeksforgeeks](https://www.geeksforgeeks.org/introduction-of-finite-automata/).
+
+To put it simply, it is an abstract machine that has a set of states and rules for moving from one state to another but it depends upon the applied input symbol. Basically, it is an abstract model of a digital computer.
